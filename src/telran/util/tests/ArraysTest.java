@@ -7,7 +7,7 @@ import static telran.util.Arrays.insertObject;
 import java.util.Arrays;
 import java.util.Comparator;
 
-import org.junit.jupiter.api.Test;
+
 public class ArraysTest {
 	Integer[] numbers = {10, 5, -5, 100, 200};
 	String[] strings = {"lmn", "a", "ab", "abc", "b", "ba"};
